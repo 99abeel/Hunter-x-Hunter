@@ -1,4 +1,4 @@
-![Descripción de la imagen]([Descargas/hunter.png](https://github.com/99abeel/Hunter-x-Hunter/blob/main/hunter.png?raw=true))
+![Descripción de la imagen]([Descargas/hunter.png](https://github.com/99abeel/Hunter-x-Hunter/blob/main/hunter.png?raw=true)
 # **Hunter × Hunter** # 
 
 ## Trama ##
