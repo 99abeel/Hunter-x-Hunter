@@ -1,4 +1,4 @@
-!(Descargas/hunter.png)
+![Descripción de la imagen](Descargas/hunter.png)
 # **Hunter × Hunter** # 
 
 ## Trama ##
