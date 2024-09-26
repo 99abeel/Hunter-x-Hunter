@@ -10,7 +10,7 @@ Después de convertirse en Hunters, Gon y Killua viajan a la Isla Greed, donde p
 Kurapika busca venganza contra la Tríada Fantasma, un grupo de criminales responsables de la muerte de su clan. Este arco explora temas de venganza y justicia, y presenta intensas batallas en la ciudad de Yorknew.
 
 ### **Arco de las Elecciones** ###
-Después de la saga de los Chimera Ants, se lleva a cabo una elección para determinar el nuevo presidente de la Asociación de Hunters. Este arco se centra en la política dentro del mundo Hunter y el desarrollo de varios personajes.
+Se lleva a cabo una elección para determinar el nuevo presidente de la Asociación de Hunters. Este arco se centra en la política dentro del mundo Hunter y el desarrollo de varios personajes.
 
 ### **Arco de Chimera Ants** ### 
 Gon y sus amigos enfrentan a las Chimera Ants, criaturas poderosas que amenazan a la humanidad. Este arco profundiza en temas de moralidad y la naturaleza humana, y presenta a algunos de los antagonistas más memorables de la serie.
