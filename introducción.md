@@ -1,3 +1,4 @@
+!(imagenes/hunter.png)
 # **Hunter × Hunter** # 
 
 ## Trama ##
