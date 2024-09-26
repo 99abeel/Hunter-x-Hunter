@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/db73a201-34c9-47c1-8466-67ed6ccab2a0)
+<img src="https://github.com/user-attachments/assets/db73a201-34c9-47c1-8466-67ed6ccab2a0" alt="Descripción de la imagen" width="200" />
+
 
 # **Hunter × Hunter** # 
 
