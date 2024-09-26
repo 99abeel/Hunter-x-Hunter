@@ -1,4 +1,5 @@
-![Descripción de la imagen]([Descargas/hunter.png](https://github.com/99abeel/Hunter-x-Hunter/blob/main/hunter.png?raw=true)
+![image](https://github.com/user-attachments/assets/db73a201-34c9-47c1-8466-67ed6ccab2a0)
+
 # **Hunter × Hunter** # 
 
 ## Trama ##
