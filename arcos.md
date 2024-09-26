@@ -14,3 +14,5 @@ Se lleva a cabo una elección para determinar el nuevo presidente de la Asociaci
 
 ### **Arco de Chimera Ants** ### 
 Gon y sus amigos enfrentan a las Chimera Ants, criaturas poderosas que amenazan a la humanidad. Este arco profundiza en temas de moralidad y la naturaleza humana, y presenta a algunos de los antagonistas más memorables de la serie.
+
+[Volver a leer la Introducción](introducción.md)
